@@ -21,7 +21,6 @@ jobs:
             os: ubuntu-18.04
             preconfigure: sudo apt-get install -y gcc-9 g++-9
             cmake_opts: -DCMAKE_C_COMPILER=gcc-9 -DCMAKE_CXX_COMPILER=g++-9
-            cflags: -Wall -Wextra
 
           - compiler: linux-gcc-ubsan
             os: ubuntu-latest
@@ -29,7 +28,7 @@ jobs:
 
           - compiler: linux-gcc-asan
             os: ubuntu-latest
-            cflags: -fsanitize=address -fsanitize-address-use-after-scope -Wall -Wextra
+            cflags: -fsanitize=address -fsanitize-address-use-after-scope
 
           - compiler: linux-gcc-32
             os: ubuntu-latest
@@ -40,7 +39,7 @@ jobs:
             os: ubuntu-18.04
             preconfigure: sudo apt-get install -y clang-9 libc++-9-dev libc++abi-9-dev
             cmake_opts: -DCMAKE_C_COMPILER=clang-9 -DCMAKE_CXX_COMPILER=clang++-9
-            cflags: -Wall -Wextra -stdlib=libc++
+            #cflags: -stdlib=libc++
 
           - compiler: windows-msvs
             os: windows-latest
