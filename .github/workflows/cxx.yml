@@ -6,6 +6,7 @@ jobs:
   build:
     runs-on: ${{ matrix.os }}
     strategy:
+      fail-fast: false
       matrix:
         compiler: [linux-gcc, linux-clang, linux-gcc9, linux-clang9, windows-gcc, linux-gcc-ubsan, linux-gcc-asan, linux-gcc-32]
         build_type: [Debug]
