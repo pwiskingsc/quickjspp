@@ -7,7 +7,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        compiler: [linux-gcc, linux-clang, linux-gcc9, linux-clang9, windows-msvs, windows-gcc, macos-clang, linux-gcc-ubsan, linux-gcc-asan, linux-gcc-32]
+        compiler: [linux-gcc, linux-clang, linux-gcc9, linux-clang9, windows-msvs, windows-gcc, linux-gcc-ubsan, linux-gcc-asan, linux-gcc-32]
         build_type: [Debug]
         include:
           - compiler: linux-gcc
