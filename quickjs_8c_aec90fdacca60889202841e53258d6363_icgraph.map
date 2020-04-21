@@ -1,0 +1,16 @@
+<map id="bc_read_error_end" name="bc_read_error_end">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a5b9cc9e01f251602d29fa6ef7a058375" title="bc_get_buf" alt="" coords="196,68,283,95"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ab64e04b510d4c4073aa468fc0a3ac0b1" title="JS_ReadFunctionBytecode" alt="" coords="344,93,525,120"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a79e9250c5e2b097c9655cbc8a75ba923" title="bc_get_leb128" alt="" coords="186,321,293,348"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a73a002c998fe7508eae9aa069fac802b" title="JS_ReadString" alt="" coords="379,499,490,525"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#acd5d73f58a821266896a76426d7c110e" title="bc_get_sleb128" alt="" coords="183,169,296,196"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a8454d184ad3645b2ccfcd8e4ded1a8e9" title="bc_get_u16" alt="" coords="195,220,284,247"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#af18981d58c553d5b56799185d30005b7" title="bc_get_u32" alt="" coords="195,473,284,500"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#acde90ec09be2051ca056c973ac9c2a38" title="bc_get_u64" alt="" coords="195,5,284,32"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a8ea895574dd7a1e1dc16c6fe2e84e129" title="bc_get_u8" alt="" coords="393,549,476,576"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a4b8ef2bb3b35e4a5f6ed8bd837a50e7c" title="JS_ReadObjectRec" alt="" coords="580,245,719,272"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#aa592b98c1f5b7d41c8384c03b642b7ad" title="bc_get_leb128_int" alt="" coords="371,397,498,424"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ab3a28d4aac1f193d1d135b37b407a07b" title="bc_get_leb128_u16" alt="" coords="367,245,502,272"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a267b1caf06e54dfdf809cd51602400b4" title="bc_get_atom" alt="" coords="386,296,483,323"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#ad54b242d774ba44b2ac39fe8161aaf9c" title="JS_ReadObjectAtoms" alt="" coords="573,499,725,525"/>
+</map>

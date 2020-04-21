@@ -1,0 +1,12 @@
+<map id="resolve_scope_private_field1" name="resolve_scope_private_field1">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a4500ab6202868bd00cbb891641304650" title="find_private_class\l_field_all" alt="" coords="205,5,332,47"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a5067e8cf3633f10ec12c2f3ee9134c85" title="get_closure_var" alt="" coords="211,71,326,98"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ab18048ab5eea3e47109a5473f78515bc" title="JS_AtomGetStr" alt="" coords="211,134,326,161"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a4671a759c33274b073d0578ac62261e0" title="get_closure_var2" alt="" coords="385,65,507,91"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a9f64fb61a20cee1cad0eb2680624e341" title="add_closure_var" alt="" coords="581,58,698,85"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a4e63c63058f1efe20ee939c165f7b3ad" title="JS_AtomGetStrRT" alt="" coords="380,159,512,186"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a288254c06a39c9fca740a7abdad2834e" title="__JS_AtomIsTaggedInt" alt="" coords="560,109,719,135"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a89f38938cee8077ce1fbba07946ed185" title="__JS_AtomToUInt32" alt="" coords="567,159,711,186"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#ac3bdf708c1dc092fd52508b5d29bd0ce" title="atom_is_free" alt="" coords="591,210,688,237"/>
+<area shape="rect" id="node11" href="$cutils_8h.html#aad4e0decb15ab19e9f45b0ee69542a28" title="unicode_to_utf8" alt="" coords="582,261,697,287"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="get_u64" name="get_u64">
+<area shape="rect" id="node2" href="$quickjs_8c.html#acde90ec09be2051ca056c973ac9c2a38" title="bc_get_u64" alt="" coords="151,29,241,56"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a351e921aea7f22e239884fdc941a8e52" title="js_dataview_getValue" alt="" coords="121,80,271,107"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a4b8ef2bb3b35e4a5f6ed8bd837a50e7c" title="JS_ReadObjectRec" alt="" coords="319,29,457,56"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a12be2ea9c010752715072489497594e9" title="JS_ReadObject" alt="" coords="505,29,620,56"/>
+</map>

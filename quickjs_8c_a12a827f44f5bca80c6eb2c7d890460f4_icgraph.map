@@ -1,0 +1,10 @@
+<map id="JS_PreventExtensions" name="JS_PreventExtensions">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a89ecb206ef0659403b7c502f272bdb01" title="js_object_preventExtensions" alt="" coords="208,5,397,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a3b1f61e0c2e39eb52d8b1c5c8713873e" title="js_object_seal" alt="" coords="250,56,355,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a7be64afafb067c71764032c0708d7aa3" title="js_proxy_preventExtensions" alt="" coords="209,107,396,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a4b8ef2bb3b35e4a5f6ed8bd837a50e7c" title="JS_ReadObjectRec" alt="" coords="233,181,372,208"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a4c9489297c684663f30e517204a9ec14" title="JS_AddIntrinsicBaseObjects" alt="" coords="445,56,635,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ad8aedb643b8753b7a15f6cb2df61945e" title="JS_NewContext" alt="" coords="689,56,807,83"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a12be2ea9c010752715072489497594e9" title="JS_ReadObject" alt="" coords="483,181,597,208"/>
+<area shape="rect" id="node9" href="$quickjs-libc_8c.html#ab1b439d304c2125490b47ef262b5df67" title="js_std_eval_binary" alt="" coords="683,181,813,208"/>
+</map>

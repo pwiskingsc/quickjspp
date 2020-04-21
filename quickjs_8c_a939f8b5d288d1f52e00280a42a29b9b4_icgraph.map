@@ -1,0 +1,8 @@
+<map id="js_get_array_buffer" name="js_get_array_buffer">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a67fcc1a61d5e110579fdaf06d051b6e9" title="js_dataview_constructor" alt="" coords="187,5,349,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ab9dd8240188c470b7c9733ff1ac12726" title="JS_GetArrayBuffer" alt="" coords="202,56,334,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a177d09828596bfe6df4bd90b2e93989d" title="JS_AddIntrinsicTypedArrays" alt="" coords="397,5,585,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ad8aedb643b8753b7a15f6cb2df61945e" title="JS_NewContext" alt="" coords="633,5,752,32"/>
+<area shape="rect" id="node6" href="$quickjs-libc_8c.html#a075659fd6c4054c89c99093d1bcb4d37" title="js_std_file_read_write" alt="" coords="417,56,565,83"/>
+<area shape="rect" id="node7" href="$quickjs-libc_8c.html#a70dbcae0637863811297360f2773c3ba" title="js_os_read_write" alt="" coords="431,107,551,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="call_handler" name="call_handler">
+<area shape="rect" id="node2" href="$quickjs-libc_8c.html#ac6c5f34cb0df6ab0d7579f0f20908a2c" title="js_os_poll" alt="" coords="144,5,224,32"/>
+<area shape="rect" id="node3" href="$quickjs-libc_8c.html#a066e7962ce24f22d5df20968a8baa346" title="js_os_init" alt="" coords="272,5,349,32"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#adcca2b4a661355e6ff87a0def2339894" title="js_init_module_os" alt="" coords="397,5,524,32"/>
+</map>

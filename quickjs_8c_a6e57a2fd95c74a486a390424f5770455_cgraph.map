@@ -1,0 +1,8 @@
+<map id="JS_ThrowSyntaxErrorVarRedeclaration" name="JS_ThrowSyntaxErrorVarRedeclaration">
+<area shape="rect" id="node2" href="$quickjs_8c.html#ab18048ab5eea3e47109a5473f78515bc" title="JS_AtomGetStr" alt="" coords="304,81,419,108"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a4e63c63058f1efe20ee939c165f7b3ad" title="JS_AtomGetStrRT" alt="" coords="467,81,599,108"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a288254c06a39c9fca740a7abdad2834e" title="__JS_AtomIsTaggedInt" alt="" coords="647,5,805,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a89f38938cee8077ce1fbba07946ed185" title="__JS_AtomToUInt32" alt="" coords="654,56,798,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ac3bdf708c1dc092fd52508b5d29bd0ce" title="atom_is_free" alt="" coords="677,107,775,133"/>
+<area shape="rect" id="node7" href="$cutils_8h.html#aad4e0decb15ab19e9f45b0ee69542a28" title="unicode_to_utf8" alt="" coords="669,157,783,184"/>
+</map>

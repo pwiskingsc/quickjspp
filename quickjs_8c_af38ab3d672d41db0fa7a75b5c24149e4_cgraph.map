@@ -1,0 +1,19 @@
+<map id="JS_EvalFunction" name="JS_EvalFunction">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a5d217acce00892ab2b50a1dcc1eb4cc8" title="JS_EvalFunctionInternal" alt="" coords="175,448,339,475"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="572,196,667,223"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#aab4130a4c3108a127681be821818528a" title="js_closure" alt="" coords="959,397,1040,424"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="1159,195,1263,221"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="1153,600,1268,627"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a8caed40cacf996391536c97ef916af21" title="js_evaluate_module" alt="" coords="387,335,524,361"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#adcabee55726eddca24893a78515c7ba2" title="js_free_modules" alt="" coords="397,701,514,728"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a89e4f0ec49cdd0029ab50c0509ccc445" title="js_instantiate_module" alt="" coords="715,752,863,779"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="733,296,844,323"/>
+<area shape="rect" id="node8" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="1159,347,1262,373"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a3ae8a83da71ef07d6e858d172d9c5a81" title="JS_Throw" alt="" coords="959,144,1040,171"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a0ec52a675282f321a6f42aa1298a53fe" title="set_value" alt="" coords="960,245,1039,272"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a2d91a9da16cf07ff3b9ec053b870c335" title="js_create_module_function" alt="" coords="911,701,1088,728"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a66b74f17c8f724e92b6d7e3856e12b1e" title="js_create_module_var" alt="" coords="1136,811,1285,837"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a2f5aeb4e31e2001c555335ae5172165b" title="js_get_module_ns" alt="" coords="936,600,1063,627"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a844d3c1554247d20a0cab7287e45173a" title="js_resolve_export" alt="" coords="937,803,1061,829"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a0c56d4991dacd4cd61dddec1afa2703c" title="js_resolve_export_throw\l_error" alt="" coords="918,854,1081,895"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="js_std_free_handlers" name="js_std_free_handlers">
+<area shape="rect" id="node2" href="$quickjs-libc_8c.html#aab7fd6a31fdf4057b761f08b15a38fed" title="free_rw_handler" alt="" coords="196,56,311,83"/>
+<area shape="rect" id="node7" href="$quickjs-libc_8c.html#a2c759d250bbd9030dba1b8b84543a7e6" title="free_sh" alt="" coords="221,157,286,184"/>
+<area shape="rect" id="node8" href="$quickjs-libc_8c.html#af489c834058ffaebb737bb9e837619aa" title="free_timer" alt="" coords="213,5,293,32"/>
+<area shape="rect" id="node9" href="$quickjs-libc_8c.html#ab9f82007cb6f3e424787919c6740647e" title="unlink_timer" alt="" coords="207,107,299,133"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a69e19dda8a93d613203e0baa06f0ed8d" title="js_free_rt" alt="" coords="713,31,789,57"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#ab8db583fa5e7c2b1935854a42859daed" title="JS_FreeValueRT" alt="" coords="359,56,481,83"/>
+<area shape="rect" id="node6" href="$list_8h.html#ab60d5d18869ebeb5d6ab694289576fa7" title="list_del" alt="" coords="389,107,451,133"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ab1ea3fad7d138be12144a38be4d36423" title="__JS_FreeValueRT" alt="" coords="529,56,665,83"/>
+</map>

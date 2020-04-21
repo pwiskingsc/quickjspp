@@ -1,0 +1,20 @@
+<map id="qjs::Context::fromJSON" name="qjs::Context::fromJSON">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a85a2abf65c29c82c085c9b7430538096" title="JS_ParseJSON" alt="" coords="219,475,334,502"/>
+<area shape="rect" id="node19" href="$classqjs_1_1Value.html#a8e2a5be6c89f30cee044b884e30bf819" title="Use context.newValue(val) instead. " alt="" coords="216,576,337,603"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a7cd95e5ed87d4b27630af7944855779f" title="free_token" alt="" coords="1030,386,1113,412"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="1014,664,1129,691"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a317ecdd2a00184939feb6a0b3df79b2b" title="js_parse_init" alt="" coords="399,286,494,312"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a756c1ab5dee9a6dd07723d7a075e2a53" title="json_parse_value" alt="" coords="385,360,508,387"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a75a3798e2045f6e403c1ef467126d1fb" title="next_token" alt="" coords="779,512,866,539"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ab7fc45a99935a1c0ba50b0216d9401a9" title="JS_FreeAtom" alt="" coords="1219,348,1322,375"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="1219,411,1323,438"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a12aed667595f49667e0095f0a028e0d4" title="JS_DefinePropertyValueUint32" alt="" coords="721,386,924,412"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a0c61bd5a64c743e81188bb528b78e715" title="JS_DefinePropertyValueValue" alt="" coords="972,335,1171,362"/>
+<area shape="rect" id="node11" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="771,107,874,134"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#ad4ba09e4c7ab9f28c144182e1aacf1f6" title="JS_NewArray" alt="" coords="563,183,666,210"/>
+<area shape="rect" id="node13" href="$quickjs_8h.html#a93abffa925714e249a6aa2f4ae7900f6" title="JS_NewBool" alt="" coords="565,234,664,260"/>
+<area shape="rect" id="node14" href="$quickjs_8h.html#ae91f44bd7249613050c18c7133702c67" title="JS_NewFloat64" alt="" coords="557,284,672,311"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#afc0d8ea75588216ec132a6e1655524a7" title="JS_NewObject" alt="" coords="559,31,670,58"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#aeca8ed71e1eef8ec809afab744958c28" title="js_parse_expect" alt="" coords="556,538,673,564"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a8cc9386cd04cfa067d0c6bf588c6bb58" title="JS_ToFloat64" alt="" coords="563,82,666,108"/>
+</map>

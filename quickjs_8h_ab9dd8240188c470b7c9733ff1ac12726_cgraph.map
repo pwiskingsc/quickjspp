@@ -1,0 +1,6 @@
+<map id="JS_GetArrayBuffer" name="JS_GetArrayBuffer">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a939f8b5d288d1f52e00280a42a29b9b4" title="js_get_array_buffer" alt="" coords="216,13,349,39"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a033dd3ebd29c4eb9f0baff1dd0fec0b1" title="JS_ThrowTypeErrorDetached\lArrayBuffer" alt="" coords="185,64,380,105"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ab0f713d7a2440dbb2673810323a9a78d" title="JS_ThrowTypeErrorInvalid\lClass" alt="" coords="428,5,604,47"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ab18048ab5eea3e47109a5473f78515bc" title="JS_AtomGetStr" alt="" coords="652,13,767,39"/>
+</map>

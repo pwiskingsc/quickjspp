@@ -1,0 +1,12 @@
+<map id="JS_AutoInitProperty" name="JS_AutoInitProperty">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a01ec0fbafb5672f6286d5f81a8c55769" title="js_instantiate_prototype" alt="" coords="213,107,373,133"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a3c828325cf92db0706f570c1d2bcb935" title="JS_InstantiateFunctionListItem" alt="" coords="192,56,395,83"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#ac2e14175ed369e3592e333f538802098" title="js_module_ns_autoinit" alt="" coords="218,5,369,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a0a8765bd4012467d9139bc24aabcb3ca" title="JS_DefinePropertyValue" alt="" coords="443,31,608,57"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="842,169,945,196"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="836,31,951,57"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#afc0d8ea75588216ec132a6e1655524a7" title="JS_NewObject" alt="" coords="470,132,581,159"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a3eb2bd652569b26b83de08a76797afe9" title="set_cycle_flag" alt="" coords="472,233,579,260"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ab50618f1bf78e444caa6da0e3e2785d7" title="JS_DefineProperty" alt="" coords="656,81,788,108"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="841,93,945,120"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="dbuf_put_sleb128" name="dbuf_put_sleb128">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a27f947bd87f87a0672cb81a01add8a02" title="bc_put_sleb128" alt="" coords="195,31,308,57"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ac8f4450aa771cc138f5fd25086f1c106" title="compute_pc2line_info" alt="" coords="177,84,325,111"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aa9342f7444c1c9f8743d43aa4d7f89e3" title="JS_WriteObjectRec" alt="" coords="373,29,512,56"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a8c807d481615ed55818787ae89621a37" title="JS_WriteObject" alt="" coords="567,27,681,53"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad0d311d4ce409584384f835f1a3e185a" title="resolve_labels" alt="" coords="390,89,495,116"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a97fcc747d8b1c3644174745d2e2739be" title="js_create_function" alt="" coords="560,101,688,128"/>
+</map>

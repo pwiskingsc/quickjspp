@@ -1,0 +1,14 @@
+<map id="js_proxy_getPrototypeOf" name="js_proxy_getPrototypeOf">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a23a30fec3b10bfa38c3dc29b4cb1c99d" title="JS_GetPrototype" alt="" coords="220,225,343,252"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aa0b5c1a59ff4832154e2a98d7c63a4b2" title="JS_OrdinaryIsInstanceOf" alt="" coords="397,17,567,44"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a5762c57ae0c9937e986040c01222833a" title="JS_GetPropertyInternal" alt="" coords="403,73,561,100"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="647,131,758,157"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ad7f03358a8088ca920ab308225c6b2e6" title="JS_SetPropertyInternal" alt="" coords="403,175,561,201"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ad3ae6750957868bc31ebfcb116b4df9c" title="js_object_getPrototypeOf" alt="" coords="397,225,567,252"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a0b46bf41453514070c7c0d722b107546" title="js_object_get___proto__" alt="" coords="401,276,563,303"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a04be55d1144f71bce472514bd31f0796" title="js_object_isPrototypeOf" alt="" coords="401,327,563,353"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a26abea9136a3d8e9a861aefb51626b4e" title="js_object___lookupGetter__" alt="" coords="391,377,573,404"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#ae8b32777df50bb192c19840adc4d32a1" title="js_proxy_setPrototypeOf" alt="" coords="399,428,565,455"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#af4cd70eee97bbcab2d0f2e46cf53ccd7" title="JS_IsInstanceOf" alt="" coords="643,5,763,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#aba5795cd66ffd3fb40bd070e0f4feeef" title="js_function_hasInstance" alt="" coords="621,56,784,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="js_module_ns_autoinit" name="js_module_ns_autoinit">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a23b7fe57d08a1b3b39ba556f9cbb6c76" title="JS_AutoInitProperty" alt="" coords="204,208,343,235"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a5762c57ae0c9937e986040c01222833a" title="JS_GetPropertyInternal" alt="" coords="404,132,563,159"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ad13892c0a0f11781b566808876658099" title="JS_GetOwnPropertyInternal" alt="" coords="391,208,576,235"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#ad7f03358a8088ca920ab308225c6b2e6" title="JS_SetPropertyInternal" alt="" coords="405,259,562,285"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#a89b7c8686c7eee70b86be722ee4730ad" title="JS_GetProperty" alt="" coords="628,5,743,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="795,81,905,108"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a0e8d8152892d3235c94ec6df17c87d13" title="JS_GetGlobalVar" alt="" coords="624,107,747,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a6730c3163c357445c0182c52d5a53ca4" title="js_reflect_get" alt="" coords="635,157,735,184"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a45df491949e8e055e732eb13c446d47b" title="js_proxy_get" alt="" coords="637,208,733,235"/>
+</map>

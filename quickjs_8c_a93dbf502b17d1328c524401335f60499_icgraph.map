@@ -1,0 +1,31 @@
+<map id="js_create_from_ctor" name="js_create_from_ctor">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a06f84cf8ea00e2baf1a9b94f1a319b18" title="js_array_buffer_constructor3" alt="" coords="191,143,377,170"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#acf0e1803a9586d86d752b002a89fb8ed" title="js_typed_array_constructor_obj" alt="" coords="897,81,1100,107"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a3be661c1eaa7a31184410667862635a2" title="js_typed_array_constructor" alt="" coords="1148,157,1327,183"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a19e15727ea84a3735a3850b18da03330" title="js_typed_array_constructor_ta" alt="" coords="900,182,1097,209"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a68c7842d6b1ef577bc4625aec4ede310" title="js_array_constructor" alt="" coords="214,321,354,347"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#ae19867da709929c072f05e90301835a4" title="js_async_generator\l_function_call" alt="" coords="217,893,351,935"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#afdf7195d04af324d0c20a7fd13a040ba" title="js_boolean_constructor" alt="" coords="206,726,362,753"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#ad35594576a14c10812efaf958c99af8a" title="JS_CallConstructorInternal" alt="" coords="195,777,373,803"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#a67fcc1a61d5e110579fdaf06d051b6e9" title="js_dataview_constructor" alt="" coords="203,523,365,550"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a7e4e02ec8849f3beaf28dc0613bb4016" title="js_date_constructor" alt="" coords="216,574,352,601"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#ac90552b1f1659acb3dae9a4c62479a30" title="js_generator_function_call" alt="" coords="197,625,371,651"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#a27dcb5e2923cd6c0201c70546d704748" title="js_map_constructor" alt="" coords="216,675,352,702"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#a937b22e3f5b47302841957ae0639fd9b" title="js_number_constructor" alt="" coords="207,422,361,449"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#a4a08f36e18b6254d214a5105c2f2c2ea" title="js_object_constructor" alt="" coords="211,473,357,499"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#a96f03a78375e0f29d9445c3fb2d5d60e" title="js_promise_constructor" alt="" coords="205,959,363,986"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#a4227224bd57b74d7e4a30fbdd67be26e" title="js_regexp_constructor\l_internal" alt="" coords="209,828,359,869"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#ab834bcc157945cd4dd8873c0d9d70c6a" title="js_string_constructor" alt="" coords="213,371,355,398"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a26d438ccdb07d84370683eb01eda3013" title="js_array_buffer_constructor2" alt="" coords="427,67,613,94"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aaf4dd31e62399fa256859376b448d391" title="JS_NewArrayBuffer" alt="" coords="451,169,589,195"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#afd4c101057712f68796803cf81501264" title="JS_NewArrayBufferCopy" alt="" coords="435,118,605,145"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aca93646daffcd067d273c79efa6dda37" title="js_array_buffer_constructor1" alt="" coords="663,106,849,133"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a5e32da9a43002cb96dcbd62a1a340144" title="js_array_from" alt="" coords="705,426,807,453"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a3b818b1ca9d2d4aaa9b55b1cc54c1bc4" title="JS_ArraySpeciesCreate" alt="" coords="675,530,837,557"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a4c9489297c684663f30e517204a9ec14" title="JS_AddIntrinsicBaseObjects" alt="" coords="425,422,615,449"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a2e66fcf1bc1d19f346317f10ee590621" title="JS_AddIntrinsicPromise" alt="" coords="439,902,601,929"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a28704096ee67c5b0ab1bd60ce050e36a" title="JS_CallConstructor" alt="" coords="452,582,588,609"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a03d5edf3e8bb18809d6675e5c08bac26" title="JS_CallConstructor2" alt="" coords="449,731,591,758"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="465,806,575,833"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a28c0ccdd26317bc38d0a693f1dffe4dc" title="js_new_promise_capability" alt="" coords="667,794,845,821"/>
+</map>

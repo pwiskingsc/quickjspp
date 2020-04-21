@@ -1,0 +1,6 @@
+<map id="JS_GetOpaque2" name="JS_GetOpaque2">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a5644dc5dba0d760dcc06cc1a79e256cc" title="JS_GetOpaque" alt="" coords="205,5,315,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ab0f713d7a2440dbb2673810323a9a78d" title="JS_ThrowTypeErrorInvalid\lClass" alt="" coords="172,57,348,98"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ab18048ab5eea3e47109a5473f78515bc" title="JS_AtomGetStr" alt="" coords="396,64,511,91"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a4e63c63058f1efe20ee939c165f7b3ad" title="JS_AtomGetStrRT" alt="" coords="559,64,691,91"/>
+</map>

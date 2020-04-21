@@ -1,0 +1,22 @@
+<map id="js_resize_array" name="js_resize_array">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aaea4bacf94d0db93f4a13f6e88860ad0" title="add_export_entry2" alt="" coords="176,233,305,260"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a3ff40fe185637ba5525078d1cbedbefa" title="add_import" alt="" coords="197,461,284,488"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#ad5cccb20d07c9e601482d5b2398c2f55" title="add_req_module_entry" alt="" coords="164,411,317,437"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#ade1e452957ebf589907635cc79718d16" title="add_resolve_entry" alt="" coords="177,512,305,539"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a18dd9d3b970d353bfd39b504d8102ab7" title="add_star_export_entry" alt="" coords="365,360,516,387"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a51fe964c0b48eb3191aec8c98e73e4c6" title="get_exported_names" alt="" coords="169,587,312,613"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ac4a40e2d5f6c48850ba11ed6ce953925" title="add_export_entry" alt="" coords="379,233,502,260"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a369af749a1fb181216fe8a8b55f841b0" title="JS_AddModuleExport" alt="" coords="367,81,515,108"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a00eb789430243c24dab4a63ad6a79653" title="js_parse_class" alt="" coords="595,208,705,235"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a498e1d5c7de1b59c1630e9847cde1e41" title="js_parse_export" alt="" coords="795,309,909,336"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#acc9eb677cab8dfcf45f59381f8a19601" title="js_parse_function_decl2" alt="" coords="1187,233,1349,260"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a42924858317b848c3aea0a0a978fab3a" title="js_parse_var" alt="" coords="602,309,698,336"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ab59a3267a100decc9d2d81eb3297794a" title="js_parse_source_element" alt="" coords="968,309,1139,336"/>
+<area shape="rect" id="node10" href="$classqjs_1_1Context_1_1Module.html#aa51896e065a04689c9dbe80a282805bb" title="qjs::Context::Module::add" alt="" coords="564,5,736,32"/>
+<area shape="rect" id="node11" href="$quickjs-libc_8c.html#a0e65c67dfff872a664f8d29e7eae5a61" title="js_init_module_std" alt="" coords="787,81,917,108"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#ac7a9b88dd7ca1a70cd0ecd9a28905e25" title="JS_AddModuleExportList" alt="" coords="565,107,735,133"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#aa24f7964f6d938a05c3c3c03af5a01e9" title="js_parse_import" alt="" coords="383,461,498,488"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a9796602fa908587aec571ec952dab68e" title="js_resolve_export1" alt="" coords="375,536,506,563"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a844d3c1554247d20a0cab7287e45173a" title="js_resolve_export" alt="" coords="588,536,712,563"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#ad12b6863ca31850fc39d208bb865420e" title="js_build_module_ns" alt="" coords="784,561,920,588"/>
+</map>

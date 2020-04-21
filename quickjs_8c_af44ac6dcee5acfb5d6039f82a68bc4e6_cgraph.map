@@ -1,0 +1,10 @@
+<map id="js_math_hypot" name="js_math_hypot">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a80e54dcf9ac687d4ccc2f90273565f30" title="js_free" alt="" coords="187,5,248,32"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#ae91f44bd7249613050c18c7133702c67" title="JS_NewFloat64" alt="" coords="160,56,275,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a8cc9386cd04cfa067d0c6bf588c6bb58" title="JS_ToFloat64" alt="" coords="166,107,269,133"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a69e19dda8a93d613203e0baa06f0ed8d" title="js_free_rt" alt="" coords="349,5,425,32"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#a9bf98b18de88b4199910a43e933eb97d" title="__JS_NewFloat64" alt="" coords="323,56,452,83"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="336,107,439,133"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ab1b614ef35f1cea05da0ad4927c53118" title="JS_ToFloat64Free" alt="" coords="323,157,452,184"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a9a2e141f21d9ea38a3a23c9b4eb6e356" title="__JS_ToFloat64Free" alt="" coords="500,157,643,184"/>
+</map>

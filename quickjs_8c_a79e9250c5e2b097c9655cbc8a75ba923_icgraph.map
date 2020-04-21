@@ -1,0 +1,9 @@
+<map id="bc_get_leb128" name="bc_get_leb128">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a267b1caf06e54dfdf809cd51602400b4" title="bc_get_atom" alt="" coords="179,5,276,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a4b8ef2bb3b35e4a5f6ed8bd837a50e7c" title="JS_ReadObjectRec" alt="" coords="349,132,488,159"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#aa592b98c1f5b7d41c8384c03b642b7ad" title="bc_get_leb128_int" alt="" coords="164,107,291,133"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ab3a28d4aac1f193d1d135b37b407a07b" title="bc_get_leb128_u16" alt="" coords="160,157,295,184"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ad54b242d774ba44b2ac39fe8161aaf9c" title="JS_ReadObjectAtoms" alt="" coords="343,208,495,235"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a73a002c998fe7508eae9aa069fac802b" title="JS_ReadString" alt="" coords="172,208,283,235"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a12be2ea9c010752715072489497594e9" title="JS_ReadObject" alt="" coords="543,171,657,197"/>
+</map>

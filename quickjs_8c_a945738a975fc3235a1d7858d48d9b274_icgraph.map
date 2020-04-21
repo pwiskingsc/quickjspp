@@ -1,0 +1,11 @@
+<map id="JS_SetConstructor2" name="JS_SetConstructor2">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a4c9489297c684663f30e517204a9ec14" title="JS_AddIntrinsicBaseObjects" alt="" coords="880,210,1069,237"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a2e66fcf1bc1d19f346317f10ee590621" title="JS_AddIntrinsicPromise" alt="" coords="643,337,806,363"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ad4850b99c142ea2d6d1b276efebb62e0" title="JS_SetConstructor" alt="" coords="193,159,327,186"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad8aedb643b8753b7a15f6cb2df61945e" title="JS_NewContext" alt="" coords="1117,185,1236,211"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#acd5457d29e9641ae5e3a1d778f94bd0e" title="JS_NewGlobalCConstructor2" alt="" coords="375,159,569,186"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a177d09828596bfe6df4bd90b2e93989d" title="JS_AddIntrinsicTypedArrays" alt="" coords="881,78,1069,105"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a293feb2179c9a722b2bd410bc2c5c173" title="JS_NewGlobalCConstructor" alt="" coords="631,235,818,262"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#abc33a664e231090ec89f9d9975e21229" title="JS_NewGlobalCConstructorOnly" alt="" coords="617,33,832,59"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a4497f8c7cf2ec38da989910ae8b1f042" title="JS_AddIntrinsicMapSet" alt="" coords="895,141,1054,167"/>
+</map>

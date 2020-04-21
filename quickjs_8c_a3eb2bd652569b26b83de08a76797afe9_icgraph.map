@@ -1,0 +1,9 @@
+<map id="set_cycle_flag" name="set_cycle_flag">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a01ec0fbafb5672f6286d5f81a8c55769" title="js_instantiate_prototype" alt="" coords="160,56,320,83"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a36322a209de4ef17f939e6d128578d7f" title="js_op_define_class" alt="" coords="173,107,307,133"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a945738a975fc3235a1d7858d48d9b274" title="JS_SetConstructor2" alt="" coords="170,157,310,184"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a23b7fe57d08a1b3b39ba556f9cbb6c76" title="JS_AutoInitProperty" alt="" coords="368,56,507,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a5762c57ae0c9937e986040c01222833a" title="JS_GetPropertyInternal" alt="" coords="568,5,727,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ad13892c0a0f11781b566808876658099" title="JS_GetOwnPropertyInternal" alt="" coords="555,56,740,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad7f03358a8088ca920ab308225c6b2e6" title="JS_SetPropertyInternal" alt="" coords="569,107,726,133"/>
+</map>

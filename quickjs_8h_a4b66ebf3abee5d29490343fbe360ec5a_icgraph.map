@@ -1,0 +1,10 @@
+<map id="JS_AtomToCString" name="JS_AtomToCString">
+<area shape="rect" id="node2" href="$quickjs-libc_8c.html#afc77720d4d1c0b90749ce275a4a16f74" title="build_envp" alt="" coords="239,5,323,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a23b6e7c4e6a3bddc1cdd2139dcdf1283" title="js_host_resolve_imported\l_module" alt="" coords="195,57,366,98"/>
+<area shape="rect" id="node9" href="$quickjs-libc_8c.html#a5cc3e22713f1916d49867f60a7375505" title="js_module_set_import_meta" alt="" coords="188,123,373,149"/>
+<area shape="rect" id="node3" href="$quickjs-libc_8c.html#a0b92fee4bb5dda499a0b6d86da0e8be8" title="js_os_exec" alt="" coords="443,5,531,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a6357b7fdae71c70c140e78e6c20cb5c2" title="js_dynamic_import_job" alt="" coords="600,72,755,99"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a041f16b68daf31525cd76aa4794073ef" title="js_resolve_module" alt="" coords="421,135,552,161"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a50e94675d1c4cf67c88e72169ea3c21a" title="js_dynamic_import" alt="" coords="803,72,933,99"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a46a8a7e155cfd0af984f6725f060f0d6" title="__JS_EvalInternal" alt="" coords="613,135,741,161"/>
+</map>
